@@ -2,6 +2,7 @@
 $ created folder name github
 $ added index.html file on github folder
 $ added index.html file
+$ added html basic 
 $ added link in footer on index.html file
 $ added html to the project
 $ added the basic css on src folder in styles.css file
