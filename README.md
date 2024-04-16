@@ -7,3 +7,4 @@ $ added link in footer on index.html file
 $ added html to the project
 add css file in the project
 $ added the basic css on src folder in styles.css file
+$ added styles.css file
