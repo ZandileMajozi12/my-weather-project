@@ -9,3 +9,4 @@ add css file in the project
 $ added the basic css on src folder in styles.css file
 $ added styles.css file
 $ added index.js file
+$ added basic js
