@@ -12,4 +12,5 @@ $ added index.js file
 $ added basic js
 $ added axios
 $ added javascript api
+$ added index html and changed name
 
