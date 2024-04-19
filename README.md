@@ -11,3 +11,5 @@ $ added styles.css file
 $ added index.js file
 $ added basic js
 $ added axios
+$ added javascript api
+
