@@ -13,6 +13,8 @@ $ added basic js
 $ added axios
 $ added javascript api
 $ added index html and changed name
+$ created function displayForecast as a response
 $ inject the forecast HTML from javascript
 $ added the forecast function in javascript and called it
+
 
