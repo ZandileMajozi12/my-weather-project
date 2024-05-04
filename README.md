@@ -14,4 +14,5 @@ $ added axios
 $ added javascript api
 $ added index html and changed name
 $ inject the forecast HTML from javascript
+$ added the forecast function in javascript and called it
 
